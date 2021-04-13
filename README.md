@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate historian and hacker from Zurich</h3>
 
-<p align='center'>🖥️ history of computing 👟 migration studies 🧐 digital history <br>👨🏻‍💻 <a href="https://moritzmaehr.ch/">moritzmaehr.ch</a> 🙇🏻‍♂️ <a href="https://twitter.com/moritzmaehr">twitter</a> 🧜🏻‍♂️ <a href="https://pronoun.is/he">he/him</a></p>
+<p align='center'>science and technology studies | digital humanities | history of computing<br>👨🏻‍💻 <a href="https://moritzmaehr.ch/">moritzmaehr.ch</a> 🙇🏻‍♂️ <a href="https://twitter.com/moritzmaehr">twitter</a> 🧜🏻‍♂️ <a href="https://pronoun.is/he">he/him</a></p>
 
 I work as a research assistant at the [Chair of the History of Technology at ETH Zurich](https://www.tg.ethz.ch/en/people/details/moritz-maehr/). I studied history and philosophy of knowledge, computer science and banking & finance in Zurich and Berlin. I am currently working on a dissertation on the history of information privacy and on the digitisation of the migration authorities in Switzerland. The study is part of the SNF-funded project [Trading Zones](http://p3.snf.ch/project-188795). My research interests include computer history, migration research and digital history. I am an advocate of open science, open access and open source.
 
