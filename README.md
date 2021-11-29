@@ -10,7 +10,7 @@ I work as a research assistant at the [Chair of the History of Technology at ETH
 
 - 🌱 I’m currently learning **to live through covid**
 
-- 👯 I’m looking to collaborate on [Awesome Digital History](https://github.com/maehr/awesome-digital-history), [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) and [Academic Pandoc template](https://github.com/maehr/academic-pandoc-template)
+- 👯 I’m looking to collaborate on [Awesome Digital History](https://github.com/maehr/awesome-digital-history), [Awesome DHTools](https://github.com/dh-tech/awesome-dhtools), [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) and [Academic Pandoc template](https://github.com/maehr/academic-pandoc-template)
 
 - 👨‍💻 Some of my projects are documented at [moritzmaehr.ch](https://moritzmaehr.ch/projects/)
 
