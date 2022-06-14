@@ -10,7 +10,7 @@ I work as a digital project manager at [Stadt.Geschichte.Basel](https://www.sta
 
 - 🌱 I’m currently learning how to convey history digitally and make it accessible to a broad public
 
-- 👯 I’m looking to collaborate on [Awesome Digital History](https://github.com/maehr/awesome-digital-history), [Awesome DHTools](https://github.com/dh-tech/awesome-dhtools), [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) and [Academic Pandoc template](https://github.com/maehr/academic-pandoc-template)
+- 👯 I’m looking to collaborate on [Awesome Digital History](https://github.com/maehr/awesome-digital-history), [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities), [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) and [Academic Pandoc template](https://github.com/maehr/academic-pandoc-template)
 
 - 👨‍💻 Some of my projects are documented at [moritzmaehr.ch](https://moritzmaehr.ch/projects/)
 
