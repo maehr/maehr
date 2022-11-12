@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate historian and hacker from Zurich</h3>
 
-<p align='center'>#DigitalHumanities #DigitalHistory #PublicHistory #NLP<br>👨🏻‍💻 <a href="https://moritzmaehr.ch/">moritzmaehr.ch</a> 🙇🏻‍♂️ <a href="https://twitter.com/moritzmaehr">twitter</a> 🧜🏻‍♂️ <a href="https://pronoun.is/he">he/him</a></p>
+<p align='center'>#DigitalHumanities #DigitalHistory #PublicHistory #NLP<br>👨🏻‍💻 <a href="https://moritzmaehr.ch/">moritzmaehr.ch</a> 🙇🏻‍♂️ <a rel="me" href="https://mastodon.social/@maehr">mastodon</a> <a href="https://twitter.com/moritzmaehr">twitter</a> 🧜🏻‍♂️ <a href="https://pronoun.is/he">he/him</a></p>
 
 I am Junior Fellow of the [IFN](https://www.ifn.unibe.ch/) at the [WBKolleg](https://www.wbkolleg.unibe.ch/) at the University of Bern and digital project manager at [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/) at University of Basel.
 I studied history and philosophy of knowledge, computer science, and banking & finance in Zurich and Berlin.
