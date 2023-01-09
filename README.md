@@ -11,7 +11,7 @@ The study was part of the SNSF-funded project [Trading Zones](https://data.snf.
 My research interests include science & technology studies, digital humanities, and history of computing.
 I am an advocate of open science, open access, and open source.
 
-- 🔭 I’m currently working on [Stadt Geschichte Basel](https://www.stadtgeschichtebasel.ch/index/das-projekt/stadt-geschichte-basel/team.html)
+- 🔭 I’m currently working on [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/index/das-projekt/stadt-geschichte-basel/team.html)
 
 - 🌱 I’m currently learning how to convey history digitally and make it accessible to a broad public
 
