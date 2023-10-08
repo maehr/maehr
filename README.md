@@ -2,7 +2,8 @@
 
 <h3 align="center">A passionate digital historian and hacker from Zurich</h3>
 
-<p align='center'>#DigitalHumanities #STS #HistoryOfComputing #NLP #SNA #graphs<br>👨🏻‍💻 <a href="https://moritzmaehr.ch/">moritzmaehr.ch</a> 🙇🏻‍♂️ <a href="https://twitter.com/moritzmaehr">twitter</a> <a rel="me" href="https://mastodon.social/@maehr">mastodon</a> 🧜🏻‍♂️ he/him</p>
+<p align='center'>#DH #STS #NLP #SNA #graphs
+#DigitalHistory #HistoryOfComputing<br>👨🏻‍💻 <a href="https://moritzmaehr.ch/">moritzmaehr.ch</a> 🙇🏻‍♂️ <a href="https://twitter.com/moritzmaehr">twitter</a> <a href="https://bsky.app/profile/maehr.bsky.social">bsky</a> <a rel="me" href="https://mastodon.social/@maehr">mastodon</a> 🧜🏻‍♂️ he/him</p>
 
 Dr. sc. Moritz Mähr is an Associate Researcher in [Digital Humanities](https://www.dh.unibe.ch/) at the University of Bern and the digital project manager of [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/) at the University of Basel. He studied history and philosophy of knowledge, computer science, and banking and finance in Zurich and Berlin. From 2018 to 2022, he was a research assistant at the Chair for the History of Technology at ETH Zurich. He wrote a dissertation on the [digitization of migration authorities in Switzerland in the 1960s](https://doi.org/10.3929/ethz-b-000587758). The study was part of the SNSF-funded project [Trading Zones](https://data.snf.ch/grants/grant/188795). His research interests include science and technology studies, digital humanities, and the history of computing. He is an advocate of open science, open access and open source.
 
