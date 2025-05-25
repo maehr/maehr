@@ -1,30 +1,55 @@
 <h1 align="center">Hi there, this is Moritz 👋</h1>
 
-<h3 align="center">A passionate digital historian and hacker from Zurich</h3>
+<h3 align="center">Digital historian, infrastructure builder, and STS researcher from Zurich</h3>
 
-<p align='center'>#DH #STS #NLP #SNA #graphs
-#DigitalHistory #HistoryOfComputing<br>👨🏻‍💻 <a href="https://moritzmaehr.ch/">moritzmaehr.ch</a> 🙇🏻‍♂️ <a href="https://twitter.com/moritzmaehr">twitter</a> <a href="https://bsky.app/profile/maehr.bsky.social">bsky</a> <a rel="me" href="https://mastodon.social/@maehr">mastodon</a> 🧜🏻‍♂️ he/him</p>
+<p align="center">
+  #DigitalHistory #STS #NLP #SNA #OpenScience #HistoryOfComputing<br>
+  👨🏻‍💻 <a href="https://moritzmaehr.ch/">moritzmaehr.ch</a> 🙇🏻‍♂️ 
+  <a href="https://bsky.app/profile/maehr.bsky.social">bsky</a> 
+  <a rel="me" href="https://mastodon.social/@maehr">mastodon</a> 🧜🏻‍♂️ he/him
+</p>
 
-Dr. sc. Moritz Mähr is an Associate Researcher in [Digital Humanities](https://www.dh.unibe.ch/) at the University of Bern and the digital project manager of [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/) at the University of Basel. He studied history and philosophy of knowledge, computer science, and banking and finance in Zurich and Berlin. From 2018 to 2022, he was a research assistant at the Chair for the History of Technology at ETH Zurich. He wrote a dissertation on the [digitization of migration authorities in Switzerland in the 1960s](https://doi.org/10.30965/9783657796823). The study was part of the SNSF-funded project [Trading Zones](https://data.snf.ch/grants/grant/188795). His research interests include science and technology studies, digital humanities, and the history of computing. He is an advocate of open science, open access and open source.
+Dr. sc. Moritz Mähr is an Associate Researcher in [Digital Humanities](https://www.dh.unibe.ch/) at the University of Bern and digital project manager of [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/) at the University of Basel. His research bridges digital history, science and technology studies, and open infrastructure for the humanities.
 
-## 🌟 Let's Collaborate
+His current agenda spans five areas:  
+1. 🧠 **Digital Source Criticism in the Age of AI** – circumvent algorithmic bias in digitised and born-digital collections.  
+2. 🌐 **Data Politics & Internet Governance** – the project *Exclusion by Design?* explores how global inequality was encoded into early Internet.  
+3. 🗃️ **Histories of Digitisation** – history of the digitization of Swiss migration regime.  
+4. 🏛️ **Public History Infrastructure** – low-barrier, open-source platforms like *Stadt.Geschichte.Basel* for FAIR/CARE storytelling and data reuse.  
+5. 🌱 **Digital Sustainability** – embedding reproducibility, inclusivity, and ethical longevity into all scholarly workflows.
 
-I'm always excited to collaborate on projects that explore the intersection of digital history, digital humanities, and technology. If you're interested in any of the pinned projects below, let's connect and work together.
+Moritz studied history, philosophy of knowledge, computer science, and finance in Zurich and Berlin, and earned his doctorate at ETH Zurich with a dissertation on the [digitization of Swiss migration authorities in the 1960s](https://doi.org/10.30965/9783657796823). He is an advocate for open science, open access, and open source.
 
-Feel free to fork these repositories, open issues, submit pull requests, or reach out to me directly. Let's make a meaningful impact by combining our skills and expertise! ✨ Looking forward to collaborating with you! ✨
+## 🌍 Let's Collaborate
 
-## 🧑‍🏫 Teaching Experiences
+I’m always looking for thoughtful collaborators in digital history, STS, research infrastructure, and critical AI studies. If you’re building collections, writing code, or rethinking scholarly workflows—let’s connect.
 
-I've had the privilege to present at numerous lectures and workshops, ranging from topics such as "The Corpus as a Network" to "The Automation of Migration Policy in Switzerland in the 1960s". Sharing my knowledge and interacting with eager minds is one of my favorite parts of the job!
+You’re welcome to fork, open issues, or submit pull requests on any pinned repositories. Contributions, ideas, and provocations are all welcome.
+
+## 🧑‍🏫 Recent Teaching Highlights
+
+- [Decoding Inequality: Critical Perspectives on Machine Learning](https://dhbern.github.io/decoding-inequality-2025/)
+- [Prompting Methods for Historians with ChatGPT](https://zenodo.org/records/10823269)
+- [Corpus-as-Network: NLP + Graphs in Historical Research](https://maehr.github.io/the-corpus-as-a-network/#/)
+
+Full teaching history is on [my website](https://moritzmaehr.ch/).
 
 ## 📚 Affiliations
 
-I am an active member in several organizations, including [History & Computing Switzerland](https://ahc-ch.ch/) and [OpenData.ch](https://ahc-ch.ch/). [See all affiliations](https://moritzmaehr.ch/)
+Active member of:
 
-## 📬 Get in touch
+- [OpenData.ch](https://opendata.ch/advisory-board/)
+- [Digital History Network Switzerland](https://www.digitalhistorynetwork.ch/)
+- [Swiss Academies ORD Sounding Board Researchers](https://ord.akademien-schweiz.ch/sounding-board-researchers)
 
-You can reach me at **[email](https://www.dh.unibe.ch/about_us/people/dr_sc_maehr_moritz/index_eng.html)** or **[my homepage](https://moritzmaehr.ch/)**
+[All affiliations](https://moritzmaehr.ch/)
 
-## 🎉 Thanks for stopping by
+## 📬 Get in Touch
 
-Remember, the world is your playground. Never stop learning and exploring!
+- ✉️ [moritz.maehr@faculty.unibe.ch](mailto:moritz.maehr@faculty.unibe.ch)
+- 🌐 [moritzmaehr.ch](https://moritzmaehr.ch/)
+- 💻 [@maehr](https://github.com/maehr)
+
+## 🎉 Thanks for Stopping By
+
+Keep building, keep questioning, and never stop examining how our digital tools shape what we know—and forget—about the past.
