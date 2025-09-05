@@ -3,17 +3,17 @@
 <h3 align="center">Digital historian, infrastructure builder, and STS researcher from Zurich</h3>
 
 <p align="center">
-  #DigitalHistory #STS #NLP #SNA #OpenScience #HistoryOfComputing<br>
+  #DigitalHistory #STS #NLP #SNA #OpenScience #HistoryOfComputing #CriticalAIStudies #FAIR #CARE<br>
   👨🏻‍💻 <a href="https://moritzmaehr.ch/">moritzmaehr.ch</a> 🙇🏻‍♂️ 
   <a href="https://bsky.app/profile/maehr.bsky.social">bsky</a> 
   <a rel="me" href="https://mastodon.social/@maehr">mastodon</a> 🧜🏻‍♂️ he/him
 </p>
 
-Dr. sc. Moritz Mähr is an Associate Researcher in [Digital Humanities](https://www.dh.unibe.ch/) at the University of Bern and digital project manager of [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/) at the University of Basel. His research bridges digital history, science and technology studies, and open infrastructure for the humanities.
+Dr. sc. Moritz Mähr is an Associate Researcher in [Digital Humanities](https://www.dh.unibe.ch/) at the University of Bern and digital project manager of [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/) at the University of Basel. His research bridges digital history, science and technology studies, critical AI studies, and open infrastructure for the humanities.
 
 His current agenda spans five areas:  
 1. 🧠 **Digital Source Criticism in the Age of AI** – circumvent algorithmic bias in digitised and born-digital collections.  
-2. 🌐 **Data Politics & Internet Governance** – the project *Exclusion by Design?* explores how global inequality was encoded into early Internet.  
+2. 🌐 **Critical AI Studies in Digital Humanities & Digital History** – audit studies, dataset ethnography, evaluation protocols, and reproducible RAG workflows for bias-aware metadata and FAIR/CARE-aligned infrastructures.  
 3. 🗃️ **Histories of Digitisation** – history of the digitization of Swiss migration regime.  
 4. 🏛️ **Public History Infrastructure** – low-barrier, open-source platforms like *Stadt.Geschichte.Basel* for FAIR/CARE storytelling and data reuse.  
 5. 🌱 **Digital Sustainability** – embedding reproducibility, inclusivity, and ethical longevity into all scholarly workflows.
