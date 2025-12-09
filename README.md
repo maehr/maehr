@@ -9,16 +9,17 @@
   <a rel="me" href="https://mastodon.social/@maehr">mastodon</a> 🧜🏻‍♂️ he/him
 </p>
 
-Dr. sc. Moritz Mähr is an Associate Researcher in [Digital Humanities](https://www.dh.unibe.ch/) at the University of Bern and digital project manager of [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/) at the University of Basel. His research bridges digital history, science and technology studies, critical AI studies, and open infrastructure for the humanities.
+Dr. sc. ETH Zurich Moritz Mähr is an associate researcher in [digital humanities](https://www.dh.unibe.ch/) at the University of Bern and an information and library science specialist with [Research Analytics Services](https://ethz.ch/staffnet/en/organisation/departments/eth-library/research-support-services/research-analytics-service.html) at the ETH Zurich. Until 2025, he was the project manager of [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/) at the University of Basel and a visiting research fellow at the [Luxembourg Centre for Contemporary and Digital History (C²DH)](https://www.uni.lu/c2dh-en/), University of Luxembourg. His research bridges digital history, science and technology studies, and open research infrastructure.
 
-His current agenda spans five areas:  
-1. 🧠 **Digital Source Criticism in the Age of AI** – circumvent algorithmic bias in digitised and born-digital collections.  
-2. 🌐 **Critical AI Studies in Digital Humanities & Digital History** – audit studies, dataset ethnography, evaluation protocols, and reproducible RAG workflows for bias-aware metadata and FAIR/CARE-aligned infrastructures.  
-3. 🗃️ **Histories of Digitisation** – history of the digitization of Swiss migration regime.  
-4. 🏛️ **Public History Infrastructure** – low-barrier, open-source platforms like *Stadt.Geschichte.Basel* for FAIR/CARE storytelling and data reuse.  
+His current agenda spans five areas:
+
+1. 🧠 **Digital Source Criticism in the Age of AI** – circumvent algorithmic bias in digitised and born-digital collections.
+2. 🌐 **Critical AI Studies in Digital Humanities & Digital History** – audit studies, dataset ethnography, evaluation protocols, and reproducible RAG workflows for bias-aware metadata and FAIR/CARE-aligned infrastructures.
+3. 🗃️ **Histories of Digitisation** – history of the digitization of Swiss migration regime.
+4. 🏛️ **Public History Infrastructure** – low-barrier, open-source platforms like _Stadt.Geschichte.Basel_ for FAIR/CARE storytelling and data reuse.
 5. 🌱 **Digital Sustainability** – embedding reproducibility, inclusivity, and ethical longevity into all scholarly workflows.
 
-Moritz studied history, philosophy of knowledge, computer science, and finance in Zurich and Berlin, and earned his doctorate at ETH Zurich with a dissertation on the [digitization of Swiss migration authorities in the 1960s](https://doi.org/10.30965/9783657796823). He is an advocate for open science, open access, and open source.
+Moritz studied history, philosophy of knowledge, computer science, and banking and finance in Zurich and Berlin. He received his doctorate from ETH Zurich for his dissertation on the [digitization of Swiss migration authorities in the 1960s](https://doi.org/10.30965/9783657796823). His research operationalizes Open Science principles in digital history through reproducible methods, interoperable infrastructures, and participatory governance.
 
 ## 🌍 Let's Collaborate
 
@@ -41,6 +42,7 @@ Active member of:
 - [OpenData.ch](https://opendata.ch/advisory-board/)
 - [Digital History Network Switzerland](https://www.digitalhistorynetwork.ch/)
 - [Swiss Academies ORD Sounding Board Researchers](https://ord.akademien-schweiz.ch/sounding-board-researchers)
+- [Digital Society Initiative, University of Zurich](https://www.dsi.uzh.ch/)
 
 [All affiliations](https://moritzmaehr.ch/)
 
