@@ -14,7 +14,7 @@ Dr. sc. ETH Zurich Moritz Mähr is an associate researcher in [digital humanitie
 His current agenda spans five areas:
 
 1. 🧠 **Digital Source Criticism in the Age of AI** – circumvent algorithmic bias in digitised and born-digital collections.
-2. 🌐 **Critical AI Studies in Digital Humanities & Digital History** – audit studies, dataset ethnography, evaluation protocols, and reproducible RAG workflows for bias-aware metadata and FAIR/CARE-aligned infrastructures.
+2. 🌐 **Critical AI Studies in Digital Humanities & Digital History** – audit studies, dataset ethnography, and reproducible workflows for bias-aware metadata and FAIR/CARE-aligned infrastructures.
 3. 🗃️ **Histories of Digitisation** – history of the digitization of Swiss migration regime.
 4. 🏛️ **Public History Infrastructure** – low-barrier, open-source platforms like _Stadt.Geschichte.Basel_ for FAIR/CARE storytelling and data reuse.
 5. 🌱 **Digital Sustainability** – embedding reproducibility, inclusivity, and ethical longevity into all scholarly workflows.
