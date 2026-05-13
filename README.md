@@ -9,17 +9,17 @@
   <a rel="me" href="https://mastodon.social/@maehr">mastodon</a> 🧜🏻‍♂️ he/him
 </p>
 
-Dr. sc. ETH Zurich Moritz Mähr is an associate researcher in [digital humanities](https://www.dh.unibe.ch/) at the University of Bern and an information and library science specialist with [Research Analytics Services](https://ethz.ch/staffnet/en/organisation/departments/eth-library/research-support-services/research-analytics-service.html) at the ETH Zurich. Until 2025, he was the project manager of [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/) at the University of Basel and a visiting research fellow at the [Luxembourg Centre for Contemporary and Digital History (C²DH)](https://www.uni.lu/c2dh-en/), University of Luxembourg. His research bridges digital history, science and technology studies, and open research infrastructure.
+Dr. sc. ETH Zurich Moritz Mähr is an associate researcher in [digital humanities](https://www.dh.unibe.ch/) at the University of Bern and an information and library science specialist with [Research Analytics Services](https://ethz.ch/staffnet/en/organisation/departments/eth-library/research-support-services/research-analytics-service.html) at ETH Zurich. From August 2026, he will additionally serve as Senior Scientist (Digital History) at the University of Bern. He is also a visiting research fellow at the University of Potsdam in May and June 2026, a lecturer in history at [UniDistance.ch](https://unidistance.ch/en/history/master/syllabus-1), and a technical advisor for the University of Zurich research project [Sexual Abuse in the Catholic Church in Switzerland](https://www.hist.uzh.ch/de/fachbereiche/neuzeit/privatdozierende/meier/forschung/forschungsprojekte/sexueller-missbrauch.html). Until 2025, he was the project manager of [Stadt.Geschichte.Basel](https://www.stadtgeschichtebasel.ch/) at the University of Basel and a visiting research fellow at the [Luxembourg Centre for Contemporary and Digital History (C²DH)](https://www.uni.lu/c2dh-en/), University of Luxembourg. His research bridges digital history, science and technology studies, and open research infrastructure.
 
 His current agenda spans five areas:
 
-1. 🧠 **Digital Source Criticism in the Age of AI** – circumvent algorithmic bias in digitised and born-digital collections.
-2. 🌐 **Critical AI Studies in Digital Humanities & Digital History** – audit studies, dataset ethnography, and reproducible workflows for bias-aware metadata and FAIR/CARE-aligned infrastructures.
-3. 🗃️ **Histories of Digitisation** – history of the digitization of Swiss migration regime.
+1. 🧠 **Digital Source Criticism in the Age of AI** – reproducible methods for identifying bias in data, algorithms, and interfaces.
+2. 🌐 **Critical AI Studies in Digital Humanities & Digital History** – critical AI literacy, audit studies, dataset ethnography, and bias-aware metadata workflows.
+3. 🗃️ **Histories of Digitisation** – the history of digitization in public administration, especially the Swiss migration regime.
 4. 🏛️ **Public History Infrastructure** – low-barrier, open-source platforms like _Stadt.Geschichte.Basel_ for FAIR/CARE storytelling and data reuse.
-5. 🌱 **Digital Sustainability** – embedding reproducibility, inclusivity, and ethical longevity into all scholarly workflows.
+5. 🌱 **Digital Sustainability** – minimal computing, reproducibility, inclusivity, and ethical longevity in scholarly workflows.
 
-Moritz studied history, philosophy of knowledge, computer science, and banking and finance in Zurich and Berlin. He received his doctorate from ETH Zurich for his dissertation on the [digitization of Swiss migration authorities in the 1960s](https://doi.org/10.30965/9783657796823). His research operationalizes Open Science principles in digital history through reproducible methods, interoperable infrastructures, and participatory governance.
+Moritz studied history, philosophy of knowledge, computer science, and banking and finance in Zurich and Berlin. He received his doctorate from ETH Zurich for his dissertation on the [digitization of Swiss migration authorities in the 1960s](https://doi.org/10.30965/9783657796823). His work operationalizes Open Science principles in digital history through reproducible methods, interoperable infrastructures, and participatory governance.
 
 ## 🌍 Let's Collaborate
 
@@ -30,6 +30,7 @@ You’re welcome to fork, open issues, or submit pull requests on any pinned rep
 ## 🧑‍🏫 Recent Teaching Highlights
 
 - [Decoding Inequality: Critical Perspectives on Machine Learning](https://dhbern.github.io/decoding-inequality-2025/)
+- [Critical AI Literacy for Historians](https://unidistance.ch/en/history/master/syllabus-1#flush-heading-9)
 - [Prompting Methods for Historians with ChatGPT](https://zenodo.org/records/10823269)
 - [Corpus-as-Network: NLP + Graphs in Historical Research](https://maehr.github.io/the-corpus-as-a-network/#/)
 
@@ -41,8 +42,8 @@ Active member of:
 
 - [OpenData.ch](https://opendata.ch/advisory-board/)
 - [Digital History Network Switzerland](https://www.digitalhistorynetwork.ch/)
-- [Swiss Academies ORD Sounding Board Researchers](https://ord.akademien-schweiz.ch/sounding-board-researchers)
 - [Digital Society Initiative, University of Zurich](https://www.dsi.uzh.ch/)
+- [Netzwerk Digitale Geisteswissenschaften, Universität Potsdam](https://www.uni-potsdam.de/de/digital-humanities/organisation/mitglieder-des-netzwerkes-1/)
 
 [All affiliations](https://moritzmaehr.ch/)
 
