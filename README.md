@@ -50,14 +50,23 @@ More software and resources are on [my website](https://moritzmaehr.ch/build/).
 
 ## 📚 Affiliations
 
-Active member of:
+Advisory and leadership roles:
 
-- [OpenData.ch](https://opendata.ch/advisory-board/)
-- [Digital History Network Switzerland](https://www.digitalhistorynetwork.ch/)
-- [Digital Society Initiative, University of Zurich](https://www.dsi.uzh.ch/)
+- Co-opted member of the [Executive Board](https://digitalhumanities.de/der-vorstand/), Digital Humanities im deutschsprachigen Raum (DHd), 2026–2028
+- Member of the [Open Science Commission](https://swiss-academies.ch/open-science-commission-a), Swiss Academies of Arts and Sciences
+- Member of the [Advisory Board](https://opendata.ch/advisory-board/), OpenData.ch
+- Founding member, [Digital History Network Switzerland](https://www.digitalhistorynetwork.ch/)
+
+Member of:
+
+- [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/)
+- [Geschichte & Informatik Schweiz](https://blog.ahc-ch.ch/)
+- [Schweizerische Gesellschaft für Geschichte (SGG)](https://www.sgg-ssh.ch/)
+- [SSHOC-CH](https://sshoc.ch/)
+- [Digital Humanities Community, University of Zurich](https://digitalhumanities.dsi.uzh.ch/member/moritz-mahr/)
 - [Netzwerk Digitale Geisteswissenschaften, Universität Potsdam](https://www.uni-potsdam.de/de/digital-humanities/organisation/mitglieder-des-netzwerkes-1/)
 
-[CV and all affiliations](https://moritzmaehr.ch/academic/)
+[CV and all affiliations](https://moritzmaehr.ch/academic/#service)
 
 ## 📬 Get in Touch
 
